@@ -1,7 +1,7 @@
 *{
     margin: 0;
     box-sizing: border-box;
-    font-family: Manrope;
+    font-family: Arial;
     src: url("../assets/Manrope-Regular.ttf");
     
 }
@@ -148,7 +148,7 @@ a{
     }
     .text-2{
         color: #fff;
-        font-family: Manrope;
+        font-family: Arial;
         font-size: 30px;
         margin-top: 21%;
         margin-left: 17%;
